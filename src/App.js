@@ -50,7 +50,7 @@ function App() {
           
           <Box sx={{ mt: 2, textAlign: 'center', fontSize: '0.8rem', color: 'text.secondary' }}>
             <Typography variant="body2">
-              © 2023 Умная Школа. Система мониторинга и управления.
+              © 2025 Умная Школа. Система мониторинга и управления.
             </Typography>
           </Box>
         </Container>
