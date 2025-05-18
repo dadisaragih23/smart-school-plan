@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/smart-school-plan/static/css/main.3a37fa86.css",
+    "main.js": "/smart-school-plan/static/js/main.9a5aea72.js",
+    "static/js/453.70ea0502.chunk.js": "/smart-school-plan/static/js/453.70ea0502.chunk.js",
+    "index.html": "/smart-school-plan/index.html",
+    "main.3a37fa86.css.map": "/smart-school-plan/static/css/main.3a37fa86.css.map",
+    "main.9a5aea72.js.map": "/smart-school-plan/static/js/main.9a5aea72.js.map",
+    "453.70ea0502.chunk.js.map": "/smart-school-plan/static/js/453.70ea0502.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3a37fa86.css",
+    "static/js/main.9a5aea72.js"
+  ]
+}
